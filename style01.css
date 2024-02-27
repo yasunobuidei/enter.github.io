@@ -74,32 +74,52 @@ a {
 
  
  }
- #photo{width: 20.5vw;
+ #photo{width: 6.5vw;
     display: block; 
     margin: auto;
     margin-bottom:1vw;
-    margin-left:7.5vw;
+    margin-left:19.5vw;
     margin-top: 0px;
 
  
  
  }
- #photo1{width: 20.5vw;
+ #photo1{width: 42vw;
     display: block; 
     margin: auto;
     margin-bottom:1vw;
-    margin-left:1vw;
+    margin-left:0vw;
     margin-top: 0px;
 
  
  
  }
- #photo2{width: 85vw;
+ #photo2{width: 9.2vw;
     display: block; 
     margin: auto;
-    margin-bottom: 5vw;
-    margin-left:7.5vw;
+    margin-bottom: 1vw;
+    margin-left:12vw;
     margin-top:0px;
+
+ 
+ 
+ }
+#photo3{width: 37.5vw;
+    display: block; 
+    margin: auto;
+    margin-bottom: 0vw;
+    margin-left:31vw;
+    margin-top:25px;
+
+ 
+ 
+ }
+#photo4{width: 13vw;
+    display: block; 
+    margin: auto;
+    margin-bottom: 8.6vw;
+    margin-left:36vw;
+    margin-top:6.8px;
 
  
  
