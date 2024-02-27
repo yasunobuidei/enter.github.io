@@ -175,50 +175,78 @@ a {
              
             }
   
-  .main {
-          display: flex;
-          flex-direction: column;
-          flex-grow:1;
-            }
-  
+ .main {
+         display: flex;
+         flex-direction: column;
+         flex-grow:1;
+           }
  
-  .content {
-          display: flex;
-          flex-direction: column;
-          flex-grow: 1;
-            }
 
-  
-  #photo{width: 85vw;
+ .content {
+         display: flex;
+         flex-direction: row;
+         flex-grow: 1;
+           }
+           #photo{width: 40vw;
+            display: block; 
+            margin: auto;
+            margin-bottom: 5vw;
+            margin-left: 7.5vw;
+            margin-top: 0;
+            
+
+ 
+ }
+ #photo{width: 38vw;
     display: block; 
     margin: auto;
-    margin-bottom:5vw;
-    margin-left:7.5vw;
+    margin-bottom:0vw;
+    margin-left:13vw;
+    margin-top: -107.5px;
+
+ 
+ 
+ }
+ #photo1{width: 96.5vw;
+    display: block; 
+    margin: auto;
+    margin-bottom:0vw;
+    margin-left:-49vw;
     margin-top: 0px;
 
  
  
  }
- #photo1{width: 85vw;
-  display: block; 
-  margin: auto;
-  margin-bottom:5vw;
-  margin-left:7.5vw;
-  margin-top: 0px;
+ #photo2{width: 40vw;
+    display: block; 
+    margin: auto;
+    margin-bottom: 0vw;
+    margin-left:-41vw;
+    margin-top:-100px;
 
+ 
+ 
+ }
+#photo3{width: 85vw;
+    display: block; 
+    margin: auto;
+    margin-bottom: 0vw;
+    margin-left:6.8vw;
+    margin-top:-64.5vw;
 
+ 
+ 
+ }
+#photo4{width: 53.5vw;
+    display: block; 
+    margin: auto;
+    margin-bottom: 31vw;
+    margin-left:23vw;
+    margin-top:7vw;
 
-}
-#photo2{width: 85vw;
-  display: block; 
-  margin: auto;
-  margin-bottom:5vw;
-  margin-left:7.5vw;
-  margin-top: 0px;
-
-
-
-}
+ 
+ 
+ }
   .footer {
     height: 15vw;
     background-color:transparent;
